@@ -6,3 +6,5 @@ layout: home
 title: News
 permalink: /news
 ---
+
+{% include nav.html %}
