@@ -1,3 +1,9 @@
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
+}
+
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3 {
     background-attachment: fixed;
@@ -9,7 +15,7 @@
 /* First image (Logo. Full height) */
 .bgimg-1 {
     background-image: url('images/img1.jpg');
-    min-height: 400px;
+    min-height: 100%;
 }
 
 /* Second image (Portfolio) */
