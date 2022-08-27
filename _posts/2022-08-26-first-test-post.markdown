@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First test post!"
-categories: jekyll update
+date:   2022-08-27 18:25:27 +0000
 tag: mynews
 ---
 This is the first `test` post. 
