@@ -2,7 +2,7 @@
 layout: post
 title:  "First test post!"
 date:   2022-08-27 18:25:27 +0000
-tag: mynews
+tags: mynews
 ---
 This is the first `test` post. 
 
