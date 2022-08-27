@@ -28,8 +28,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  # Added this to try to get the minima theme dark skin working
-  - jekyll-remote-theme
 
 header_pages:
   - index.md
@@ -37,9 +35,6 @@ header_pages:
   - news.md
   - tech.md
   - contact.md
-
-minima:
-  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
