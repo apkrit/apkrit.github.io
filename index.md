@@ -8,4 +8,6 @@ permalink: /
 ---
 
 This is the home page. 
-![home splash]({{ site.url }}/assets/images/img1.jpg)
+![home splash1]({{ site.url }}/assets/images/img1.jpg)
+![home splash2]({{ site.url }}/assets/images/img2.jpg)
+![home splash3]({{ site.url }}/assets/images/img3.jpg)
