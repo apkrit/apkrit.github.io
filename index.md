@@ -6,5 +6,3 @@ layout: home
 title: Home
 permalink: /
 ---
-
-![home splash1]({{ site.url }}/assets/images/img1.jpg) 
