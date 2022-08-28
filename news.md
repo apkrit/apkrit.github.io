@@ -6,3 +6,4 @@ layout: home
 title: News
 permalink: /news
 ---
+News

@@ -6,3 +6,4 @@ layout: secondary
 title: Tech
 permalink: /tech
 ---
+Tech
