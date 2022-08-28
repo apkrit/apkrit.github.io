@@ -7,4 +7,13 @@ title: Home
 permalink: /
 ---
 
-![home splash1]({{ site.url }}/assets/images/img1.jpg)
+<div class="homesplash">
+  {{ page.homesplash_text }}
+  <img class="feature-img" src="{{ 'assets/images/img1.jpg' | relative_url }}" />
+</div>
+<!-- ![home splash1]({{ site.url }}/assets/images/img1.jpg) -->
+
+/* Cover Image */
+.homesplash {
+  background: url(assets/images/img1.jpg);
+}
