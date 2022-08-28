@@ -7,4 +7,5 @@ title: Home
 permalink: /
 ---
 
-
+This is the home page. 
+![home splash1]({{ site.url }}/assets/images/img1.jpg)
