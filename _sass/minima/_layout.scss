@@ -10,17 +10,6 @@
   position: relative;
 }
 
-
-.site-homeheader {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
-}
-
-
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -111,19 +100,20 @@
   }
 }
 
+/*!
 .hero-image {
   position: relative;
   margin-bottom: 2em;
-  /* liner gradient tints the image darker for readability*/
   background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2) ), url(/assets/images/img1.jpg); 
   height: 400px; 
   background-size: cover;
   background-color: #141c25f2;
   background-position: center center;
-  display: flex; /* Change to `display: none` for no hero image */
+  display: flex; 
   justify-content: center;
   align-items: center;
 }
+
 
 .top-text {
   position: relative;
@@ -131,7 +121,7 @@
   padding-bottom: 0.5em;
   text-transform: uppercase;
   text-align: center;
-  display: block; /* Change to `display: none` for no top text */
+  display: block; 
   color: #00000072;
 }
 
@@ -142,11 +132,12 @@
   font-size: 68px;
   text-transform: uppercase;
   text-align: center;
-  display: block; /* Change to `display: none` for no bottom text */
+  display: block; 
   color: #000000;
   margin-bottom: 2.5rem;
   font-weight: bold;
 }
+*/
 
 /**
  * Site footer
