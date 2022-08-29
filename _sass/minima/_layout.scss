@@ -122,6 +122,7 @@
   text-align: center;
   display: block; /* Change to `display: none` for no top text */
   color: #ffffff72;
+  float: left;
 }
 
 .bottom-text {
@@ -135,6 +136,7 @@
   color: #ffffff;
   margin-bottom: 2.5rem;
   font-weight: bold;
+  float: left;
 }
 
 /**
