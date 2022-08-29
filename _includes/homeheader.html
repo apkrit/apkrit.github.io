@@ -1,9 +1,9 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper"> <!--hero-image is a copy of wrapper class from header.html -->
+  <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -28,13 +28,12 @@
     {%- endif -%}
   </div>
 
-  <!-- <div class="hero-image"></div>
-
+  <div class="hero-image"></div>
 <div class="image-text">
   <div class="top-text">Anthony P. Kritikos, Esq.</div>
     <div class="bottom-text">IP Attorney and Software Engineer</div>
+    
 </div>
--->
 </header>
 
 
