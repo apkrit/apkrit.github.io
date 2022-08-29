@@ -5,7 +5,6 @@
 layout: home
 title: Home
 permalink: /
-image: /assets/images/img1.jpg
 ---
 
 <!--![homesplash]({{ site.url }}/assets/images/img1.jpg)-->
