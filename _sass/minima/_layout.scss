@@ -129,7 +129,7 @@
   padding-bottom: 0.5em;
   text-transform: uppercase;
   text-align: center;
-  display: none; /* Change to `display: none` for no top text */
+  display: flex; /* Change to `display: none` for no top text */
   color: #ffffff72;
 }
 
@@ -140,7 +140,7 @@
   font-size: 68px;
   text-transform: uppercase;
   text-align: center;
-  display: none; /* Change to `display: none` for no bottom text */
+  display: flex; /* Change to `display: none` for no bottom text */
   color: #ffffff;
   margin-bottom: 2.5rem;
   font-weight: bold;
