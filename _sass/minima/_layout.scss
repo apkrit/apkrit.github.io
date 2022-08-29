@@ -112,7 +112,6 @@
   display: flex; /* Change to `display: none` for no hero image */
   justify-content: center;
   align-items: center;
-  color: #ffffff;
 }
 
 .top-text {
@@ -136,6 +135,10 @@
   color: #ffffff;
   margin-bottom: 2.5rem;
   font-weight: bold;
+}
+
+.site-homenav {
+  color: #ffffff;
 }
 
 /**

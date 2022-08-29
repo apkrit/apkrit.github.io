@@ -1,12 +1,12 @@
 <header class="site-header" role="banner">
 
-  <div class="hero-image">
+  <div class="hero-image"> <!--hero-image is a copy of wrapper class from header.html -->
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
-      <nav class="site-nav">
+      <nav class="site-homenav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
