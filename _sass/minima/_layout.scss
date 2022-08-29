@@ -130,7 +130,9 @@
   text-transform: uppercase;
   text-align: center;
   display: flex; /* Change to `display: none` for no top text */
-  color: #ffffff72;
+  color: #00000072;
+  justify-content: center;
+  align-items: center;
 }
 
 .bottom-text {
@@ -141,9 +143,11 @@
   text-transform: uppercase;
   text-align: center;
   display: flex; /* Change to `display: none` for no bottom text */
-  color: #ffffff;
+  color: #000000;
   margin-bottom: 2.5rem;
   font-weight: bold;
+  justify-content: center;
+  align-items: center;
 }
 
 /**
