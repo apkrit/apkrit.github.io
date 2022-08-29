@@ -129,10 +129,8 @@
   padding-bottom: 0.5em;
   text-transform: uppercase;
   text-align: center;
-  display: flex; /* Change to `display: none` for no top text */
+  display: block; /* Change to `display: none` for no top text */
   color: #00000072;
-  justify-content: center;
-  align-items: center;
 }
 
 .bottom-text {
@@ -142,12 +140,10 @@
   font-size: 68px;
   text-transform: uppercase;
   text-align: center;
-  display: flex; /* Change to `display: none` for no bottom text */
+  display: block; /* Change to `display: none` for no bottom text */
   color: #000000;
   margin-bottom: 2.5rem;
   font-weight: bold;
-  justify-content: center;
-  align-items: center;
 }
 
 /**
