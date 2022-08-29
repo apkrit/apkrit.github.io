@@ -112,6 +112,7 @@
   display: flex; /* Change to `display: none` for no hero image */
   justify-content: center;
   align-items: center;
+  z-index: 0;
 }
 
 .top-text {
