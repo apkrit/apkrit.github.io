@@ -27,6 +27,7 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  z-index: 9001;
 
   .nav-trigger {
       display: none;
@@ -112,7 +113,6 @@
   display: flex; /* Change to `display: none` for no hero image */
   justify-content: center;
   align-items: center;
-  z-index: 0;
 }
 
 .top-text {
