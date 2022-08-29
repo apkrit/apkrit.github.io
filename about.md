@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-About Anthony P. Kritikos...
+<h1>About Anthony</h1>
 
-
+![homesplash]({{ site.url }}/assets/images/img2.jpg)
