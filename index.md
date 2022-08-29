@@ -7,3 +7,5 @@ title: Home
 permalink: /
 ---
 
+<h1>Welcome.</h1>
+<p>Take a look around the site to learn about me and what I do.</p>
