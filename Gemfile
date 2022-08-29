@@ -16,7 +16,6 @@ gem "jekyll", "~> 3.9.2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll", "~> 5.0", ">= 3.5"
   gem "jekyll-feed", "~> 0.9"
   gem "jekyll-seo-tag", "~> 2.1"
 end
