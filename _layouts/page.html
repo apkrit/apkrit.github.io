@@ -10,7 +10,7 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    {% if page.title == Contact %}
+    {% if page.title contains 'Contact' %}
       {%- include contactform.html -%}
     {% endif %}
 
