@@ -4,4 +4,4 @@ title: Thank You
 permalink: /thankyou
 ---
 
-<h1>Thank You!</h1>
+<h1>Your message has been sent.</h1>
