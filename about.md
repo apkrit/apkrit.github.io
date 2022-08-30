@@ -12,6 +12,7 @@ permalink: /about
 
 <p>Anthony is a first generation Greek-American born and raised in Boston, Massachusetts. He went to college in Boston and earned his Juris Doctor in Chicago. Since then, while practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science.</p>
 
+<div class="legalcol">
 <h1>Legal Services</h1>
 <ul>
   <li>Intellectual Property</li>
@@ -36,7 +37,9 @@ permalink: /about
     <li>Mediation</li>
   </ul>
 </ul>
+</div>
 
+<div class="cscol">
 <h1>Computer Science</h1>
 <ul>
   <li>Current Skills</li>
@@ -61,5 +64,6 @@ permalink: /about
     <li>Interactive + Dynamic Conference Website</li>
   </ul>
 </ul>
+</div>
 
 
