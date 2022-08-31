@@ -7,7 +7,6 @@ permalink: /about
 
 ![homesplash]({{ site.url }}/assets/images/img2.jpg)
 
-
 <h1>Background</h1>
 
 <p>Anthony P. Kritikos, Esq. is a first generation Greek-American born and raised in Boston, Massachusetts. He attended college in Boston where he studied Philosophy and Political Science, graduating cum laude. He earned his Juris Doctor in Chicago, earning Dean's List on several occasions, in addition to providing quasi in-house counsel services for tech startups. Since then, while volunteering pro bono and practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science. As an attorney, Anthony has advised individuals, startups, and established businesses; providing valuable insight and information, legal services, or acting as a trusted liason or representative.</p>
@@ -68,5 +67,5 @@ permalink: /about
 
 <div class="goals">
     <h1>Goals</h1>
-    <p>Currently, Anthony wants to learn more about software engineering and the development process in the best way possible - by taking part. He enjoys coding and appreciates the meaningful impact software can have on the world. The experience would provide useful insight and expertise from an IP law perspective and also be crucial for furthering his long term goals of founding an innovative tech startup.</p>
+    <p>Currently, Anthony is expanding his expertise. He wants to learn more about software engineering and the development process in the best way possible - by taking part. He enjoys coding and appreciates the meaningful impact software can have on the world. Hands-on experience would provide useful insight and expertise from an IP law perspective and also be crucial for furthering his long term goals of founding an innovative tech startup. If you have openings for entry-level software engineers, please feel free to reach out however you like via the <a href="https://singularity.lawyer/contact">Contact</a> page.</p>
 </div>
