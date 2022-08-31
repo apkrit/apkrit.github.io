@@ -10,7 +10,7 @@ permalink: /about
 
 <h1>Background</h1>
 
-<p>Anthony P. Kritikos, Esq. is a first generation Greek-American born and raised in Boston, Massachusetts. He attended college in Boston where he studied Philosophy and Political Science, graduating cum laude. He earned his Juris Doctor in Chicago, earning Dean's List on several occasions, in addition to providing quasi in-house counsel services for tech startups. Since then, while practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science. As an attorney, Anthony has advised individuals, startups, and established businesses; providing valuable insight and information, legal services, or acting as a trusted liason or representative.</p>
+<p>Anthony P. Kritikos, Esq. is a first generation Greek-American born and raised in Boston, Massachusetts. He attended college in Boston where he studied Philosophy and Political Science, graduating cum laude. He earned his Juris Doctor in Chicago, earning Dean's List on several occasions, in addition to providing quasi in-house counsel services for tech startups. Since then, while volunteering pro bono and practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science. As an attorney, Anthony has advised individuals, startups, and established businesses; providing valuable insight and information, legal services, or acting as a trusted liason or representative.</p>
 
 <div class="legalcol">
 <h1>Legal Services</h1>
@@ -66,6 +66,7 @@ permalink: /about
 </ul>
 </div>
 
-<h1>Why I Do What I Do</h1>
-<p></p>
-
+<div class="goals">
+    <h1>Goals</h1>
+    <p>Currently, Anthony wants to learn more about software engineering and the development process in the best way possible - by taking part. He enjoys coding and appreciates the meaningful impact software can have on the world. The experience would provide useful insight and expertise from an IP law perspective and also be crucial for furthering his long term goals of founding an innovative tech startup.</p>
+</div>
