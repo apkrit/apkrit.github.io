@@ -71,5 +71,5 @@ permalink: /about
 
 <div class="goals">
     <h1>Goals</h1>
-    <p>Currently, Anthony is expanding his expertise. He wants to learn more about software engineering and the development process in the best way possible - by taking part. He enjoys coding and appreciates the meaningful impact software can have on the world. Hands-on experience would provide useful insight and expertise from an IP law perspective and also be crucial for furthering his long term goals of founding an innovative tech startup. If you have openings for entry-level software engineers, please feel free to reach out via the <a href="https://singularity.lawyer/contact">Contact</a> page.</p>
+    <p>Currently, Anthony is expanding his expertise. He wants to learn more about software engineering and the development process in the best way possible - by taking part. He enjoys coding and appreciates the meaningful impact software can have on the world. Hands-on experience would provide useful insight from an IP law perspective and also be crucial for furthering his long term goals of founding an innovative tech startup. If you have openings for entry-level software engineers, please feel free to reach out via the <a href="https://singularity.lawyer/contact">Contact</a> page.</p>
 </div>
