@@ -11,6 +11,8 @@ permalink: /about
 
 <p>Anthony P. Kritikos, Esq. is a first generation Greek-American born and raised in Boston, Massachusetts. He attended college in Boston where he studied Philosophy and Political Science, graduating cum laude. He earned his Juris Doctor in Chicago, earning Dean's List on several occasions, in addition to providing quasi in-house counsel services for tech startups. Since then, while volunteering pro bono and practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science. As an attorney, Anthony has advised individuals, startups, and established businesses; providing valuable insight and information, legal services, or acting as a trusted liason or representative.</p>
 
+<div class="services">
+
 <div class="legalcol">
 <h1>Legal Services</h1>
 <ul>
@@ -63,6 +65,8 @@ permalink: /about
     <li>Interactive + Dynamic Conference Website</li>
   </ul>
 </ul>
+</div>
+
 </div>
 
 <div class="goals">
