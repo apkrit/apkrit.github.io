@@ -10,7 +10,7 @@ permalink: /about
 
 <h1>Background</h1>
 
-<p>Anthony is a first generation Greek-American born and raised in Boston, Massachusetts. He went to college in Boston and earned his Juris Doctor in Chicago. Since then, while practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science.</p>
+<p>Anthony P. Kritikos, Esq. is a first generation Greek-American born and raised in Boston, Massachusetts. He attended college in Boston where he studied Philosophy and Political Science, graduating cum laude. He earned his Juris Doctor in Chicago, earning Dean's List on several occasions, in addition to providing quasi in-house counsel services for tech startups. Since then, while practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science. As an attorney, Anthony has advised individuals, startups, and established businesses; providing valuable insight and information, legal services, or acting as a trusted liason or representative.</p>
 
 <div class="legalcol">
 <h1>Legal Services</h1>
@@ -49,7 +49,7 @@ permalink: /about
     <li>Google Firebase, SQL</li>
     <li>HTML, CSS, JavaScript</li>
   </ul>
-  <li>Skills In Development</li>
+  <li>Skills Under Development</li>
   <ul>
     <li>C++</li>
     <li>Unreal Engine</li>
@@ -66,4 +66,6 @@ permalink: /about
 </ul>
 </div>
 
+<h1>Why I Do What I Do</h1>
+<p></p>
 
