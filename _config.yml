@@ -27,6 +27,7 @@ linkedin_username:  apkritikos
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 header_pages:
   - index.md
