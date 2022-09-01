@@ -37,7 +37,9 @@ header_pages:
   - tech.md
   - contact.md
 
-paginate: 2
+paginate: 5
+paginate_path: "/tech/page:num/"
+paginate_path: "/news/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
