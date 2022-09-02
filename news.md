@@ -5,4 +5,7 @@
 layout: blog
 title: News
 permalink: /news
+pagination: 
+  enabled: true
+  category: news
 ---

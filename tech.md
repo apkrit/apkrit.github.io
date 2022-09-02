@@ -5,4 +5,7 @@
 layout: secondary
 title: Tech
 permalink: /tech
+pagination: 
+  enabled: true
+  category: tech
 ---
