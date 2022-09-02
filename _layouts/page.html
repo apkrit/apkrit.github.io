@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article class="post">
 
   <!-- 
@@ -10,14 +11,47 @@ layout: default
   -->
 
   <div class="post-content">
+    
     {{ content }}
 
     {% if page.title contains 'Contact' %}
       {%- include contactform.html -%}
     {% else %}
-      <h1> Before blog content</h1>
-      {%- include posts.html -%}
-      <h1> After blog content</h1>
+
+      <div class="posts">
+        {% for post in paginator.posts %}
+            <div class="post">
+              <h1 class="post-title">
+                <a href="{{ post.url }}">
+                  {{ post.title }}
+                </a>
+              </h1>    
+      
+              <span class="post-date">{{ post.date | date_to_string }}</span>    
+      
+              {{ post.excerpt }}
+            </div>
+        {% endfor %}
+      </div>
+
+      <!-- 
+        Showing buttons to move to the next and to the previous list of posts (pager buttons).
+      -->
+      {% if paginator.total_pages > 1 %}
+      <ul class="pager">
+          {% if paginator.previous_page %}
+          <li class="previous">
+              <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+          </li>
+          {% endif %}
+          {% if paginator.next_page %}
+          <li class="next">
+              <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+          </li>
+          {% endif %}
+      </ul>
+      {% endif %}
+
     {% endif %}
 
   </div>

@@ -47,7 +47,10 @@ pagination:
   title: ' - page :num'
   limit: 0
   sort_field: 'date'
-  sort_reverse: true
+  sort_reverse: false
+  trail: 
+    before: 1
+    after: 1
 
 ############################################################
 
