@@ -25,6 +25,8 @@ linkedin_username:  apkritikos
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-paginate-v2
 plugins:
   - jekyll-feed
   - jekyll-sitemap
