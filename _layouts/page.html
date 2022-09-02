@@ -14,14 +14,10 @@ layout: default
 
     {% if page.title contains 'Contact' %}
       {%- include contactform.html -%}
-    {% endif %}
-
-    {% if page.title contains 'Tech' %}
-      {%- include blog.html -%}
-    {% endif %}
-
-    {% if page.title contains 'News' %}
-      {%- include blog.html -%}
+    {% else %}
+      <h1> Before blog content</h1>
+      {%- include posts.html -%}
+      <h1> After blog content</h1>
     {% endif %}
 
   </div>
