@@ -23,3 +23,5 @@ jobs:
         with: 
           ruby-version: 2.7
       - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
+        with:
+          token:  GITHUB_TOKEN
