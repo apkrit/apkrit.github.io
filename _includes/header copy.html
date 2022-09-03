@@ -18,12 +18,11 @@
             my_page.autogen is populated by the pagination logic for all pages
                             that are automatically created by the gem. Check for non-existence to exclude pagination pages from site.pages iterators
           -->
-          <a class="page-link" href="https://singularity.lawyer/">Home</a>
-          <a class="page-link" href="https://singularity.lawyer/about">About</a>
-          <a class="page-link" href="https://singularity.lawyer/news">News</a>
-          <a class="page-link" href="https://singularity.lawyer/tech">Tech</a>
-          <a class="page-link" href="https://singularity.lawyer/about">Contact</a>
-
+        {% for my_page in site.pages %}
+          {% if my_page.title and my_page.autogen == nil %}
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
       </div>
     </nav>
 
