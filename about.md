@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-<h1 class="post-title">About Anthony</h1>
+<h1 class="post-title">About Anthony Kritikos</h1>
 
 ![homesplash]({{ site.url }}/assets/images/img2.jpg)
 
