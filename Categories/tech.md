@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tech
-permalink: /tech/
+permalink: /tech
 pagination: 
   enabled: true
   category: tech
