@@ -20,5 +20,5 @@ jobs:
         with: 
           ruby-version: 2.7
       - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
-        with:                                # Some relative inputs of your action
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
