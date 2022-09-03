@@ -5,6 +5,9 @@ on:
     branches:
       - main 
 
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
@@ -20,5 +23,3 @@ jobs:
         with: 
           ruby-version: 2.7
       - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
