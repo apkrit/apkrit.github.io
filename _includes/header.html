@@ -21,7 +21,7 @@
         <div class="trigger">
           {% assign sorted_pages = site.pages | sort:"order" %}
           {% for p in sorted_pages %}
-          {% if p.order != -1 and p.order %}
+          {% if p.order != -1 and p.order and p.autogen == nil %}
           <a class="page-link" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
           {% endif %}
           {% endfor %}
