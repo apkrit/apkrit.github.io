@@ -2,6 +2,7 @@
 layout: home
 title: Home
 permalink: /
+order: 1
 ---
 
 <div class="hometext">

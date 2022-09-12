@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
+order: 5
 ---
 
 <h1 class="post-title">Contact</h1>

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+order: 2
 ---
 <h1 class="post-title">About Anthony</h1>
 
