@@ -110,6 +110,8 @@ table td { border: 1px solid #e8e8e8; }
 
 .goals { clear: both; }
 
+.profile-image { background: url(/assets/images/kritikospic.jpg); }
+
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
 
