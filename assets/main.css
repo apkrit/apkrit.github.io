@@ -110,7 +110,13 @@ table td { border: 1px solid #e8e8e8; }
 
 .goals { clear: both; }
 
-.profile-image { background: url(/assets/images/kritikospic.jpg); }
+.centered-header { text-align: center; }
+
+.centered-title { text-align: center; font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .centered-title { font-size: 36px; } }
+
+.profile-img { height: 40vmax; display: block; margin-left: auto; margin-right: auto; }
 
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
