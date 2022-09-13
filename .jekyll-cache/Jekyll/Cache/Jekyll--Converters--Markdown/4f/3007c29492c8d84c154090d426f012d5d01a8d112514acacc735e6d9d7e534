@@ -1,9 +1,11 @@
-I"t<h1 class="centered-title">About Anthony</h1>
+I"Œ<h1 class="centered-title">About Anthony</h1>
 
 <figure class="image">
   <img class="profile-img" src="assets/images/kritikospic.jpg" alt="" />
   <figcaption></figcaption>
 </figure>
+
+<hr class="rounded" />
 
 <h1 class="centered-header">Background</h1>
 
