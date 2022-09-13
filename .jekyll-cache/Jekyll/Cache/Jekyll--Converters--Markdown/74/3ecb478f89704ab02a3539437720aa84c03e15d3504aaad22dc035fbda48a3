@@ -1,13 +1,9 @@
----
-layout: page
-title: About
-permalink: /about
-order: 2
----
+I"\<h1 class="centered-title">About Anthony</h1>
 
-<h1 class="centered-title">About Anthony</h1>
-
-{% include image.html url="assets/images/kritikospic.jpg" %}
+<figure class="image">
+  <img class="profile-img" src="assets/images/kritikospic.jpg" alt="" />
+  <figcaption></figcaption>
+</figure>
 
 <h1 class="centered-header">Background</h1>
 
@@ -43,7 +39,7 @@ order: 2
 </div>
 
 <div class="cscol">
-<h1 class="centered-header">Computer Science</h1>
+<h1>Computer Science</h1>
 <ul>
   <li>Current Skills</li>
   <ul>
@@ -75,3 +71,4 @@ order: 2
     <h1 class="centered-header">Goals</h1>
     <p>Currently, Anthony is expanding his expertise. He wants to learn more about software engineering and the development process in the best way possible - by taking part. He enjoys coding and appreciates the meaningful impact software can have on the world. Hands-on experience would provide useful insight from an IP law perspective and also be crucial for furthering his long term goals of founding an innovative tech startup. If you have openings for entry-level software engineers, please feel free to reach out via the <a href="https://singularity.lawyer/contact">Contact</a> page.</p>
 </div>
+:ET

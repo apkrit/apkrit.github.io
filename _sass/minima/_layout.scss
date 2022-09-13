@@ -158,8 +158,27 @@
   clear: both;
 }
 
-.profile-image {
-  background: url(/assets/images/kritikospic.jpg); 
+.centered-header {
+  text-align: center;
+}
+
+.centered-title {
+  text-align: center;
+
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(2.25);
+  }
+}
+
+.profile-img {
+  height: 40vmax;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /**
