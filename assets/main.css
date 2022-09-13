@@ -116,7 +116,10 @@ table td { border: 1px solid #e8e8e8; }
 
 @media screen and (max-width: 800px) { .centered-title { font-size: 36px; } }
 
-.profile-img { height: 40vmax; display: block; margin-left: auto; margin-right: auto; }
+.profile-img { height: 40vmax; display: block; margin-left: auto; margin-right: auto; padding-bottom: 5vmin; }
+
+/* Rounded border */
+hr.rounded { border-top: 8px solid #bbb; border-radius: 5px; margin-bottom: 5vmin; }
 
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
