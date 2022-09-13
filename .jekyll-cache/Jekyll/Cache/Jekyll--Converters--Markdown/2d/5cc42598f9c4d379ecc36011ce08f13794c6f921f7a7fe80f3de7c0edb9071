@@ -1,7 +1,8 @@
-I"Ý
+I"ö
 <h1 class="post-title">About Anthony</h1>
 
-<p><img src="http://localhost:4000/assets/images/img2.jpg" alt="homesplash" /></p>
+<div class="profile-image"></div>
+<!--![homesplash](http://localhost:4000/assets/images/kritikospic.jpg)-->
 
 <h1>Background</h1>
 

@@ -6,7 +6,8 @@ order: 2
 ---
 <h1 class="post-title">About Anthony</h1>
 
-![homesplash]({{ site.url }}/assets/images/img2.jpg)
+<div class="profile-image"></div>
+<!--![homesplash]({{ site.url }}/assets/images/kritikospic.jpg)-->
 
 <h1>Background</h1>
 
