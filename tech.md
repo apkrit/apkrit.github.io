@@ -3,6 +3,7 @@ layout: page
 title: Tech
 permalink: /tech
 order: 4
+published: false
 pagination: 
   enabled: true
   category: tech

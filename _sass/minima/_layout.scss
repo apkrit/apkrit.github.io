@@ -227,23 +227,27 @@ hr.rounded {
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  text-align: center;
+  width: -webkit-calc(29% - (#{$spacing-unit} / 2));
+  width:         calc(29% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  text-align: right;
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    text-align: left;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-3 {
+    text-align: unset;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
   }
@@ -339,4 +343,17 @@ hr.rounded {
       @include relative-font-size(1.125);
     }
   }
+}
+
+.button { 
+  background-color: #2698df; 
+  border: none; 
+  padding: 20px 34px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-size: 20px; 
+  margin: 4px 2px; 
+  cursor: pointer; 
+  border-radius: 12px;
 }

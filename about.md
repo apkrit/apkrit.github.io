@@ -5,71 +5,64 @@ permalink: /about
 order: 2
 ---
 
-<h1 class="centered-title">About Anthony</h1>
-
-{% include image.html url="assets/images/kritikospic.jpg" %}
-
+<h1 class="centered-title">About Anthony P. Kritikos, Esq.</h1>
+<h1 class="centered-header">Registered USPTO Patent Attorney</h1>
 <hr class="rounded">
 
+<!-- {% include image.html url="assets/images/kritikospic.jpg" %} -->
+
+<!-- <hr class="rounded"> -->
+
 <h1 class="centered-header">Background</h1>
-
-<p>Anthony P. Kritikos, Esq. is a first generation Greek-American born and raised in Boston, Massachusetts. He attended college in Boston where he studied Philosophy and Political Science, graduating cum laude. He earned his Juris Doctor in Chicago, earning Dean's List on several occasions, in addition to providing quasi in-house counsel services for tech startups. Since then, while volunteering pro bono and practicing law, Anthony has continued expanding his knowledge and skills by earning a degree in Computer Science. As an attorney, Anthony has advised individuals, startups, and established businesses; providing valuable insight and information, legal services, or acting as a trusted liaison or representative.</p>
-
-<div class="services">
-
-<div class="legalcol">
-<h1 class="centered-header">Legal Services</h1>
 <ul>
-  <li>Intellectual Property</li>
-  <ul>
-    <li>Copyrights, Trademarks, Patents</li>
-    <li>NDAs, IP Assignments, Licensing</li>
-    <li>Corporate IP Strategy</li>
-    <li>Employee IP Training</li>
-  </ul>
-  <li>Startup Law</li>
-  <ul>
-    <li>Incorporation</li>
-    <li>Operating Agreements</li>
-    <li>Shareholders Agreements</li>
-    <li>Registration</li>
-  </ul>
-  <li>Business/Contract Law</li>
-  <ul>
-    <li>In-house counsel</li>
-    <li>Contract drafting and review</li>
-    <li>Negotiations</li>
-    <li>Mediation</li>
-  </ul>
+  <li>Member of the Massachusetts Bar</li>
+  <li>Registered USPTO Patent Attorney</li>
+  <li>J.D., Chicago-Kent College of Law (Dean’s List)</li>
+  <li>B.S., Computer Science, Regis University</li>
+  <li>B.A., Philosophy & Political Science, Suffolk University (cum laude)</li>
 </ul>
-</div>
 
-<div class="cscol">
-<h1 class="centered-header">Computer Science</h1>
+<br>
+<hr class="rounded">
+
+<h1 class="centered-header">Legal Guidance at the Edge of Innovation</h1>
+
+<p>The future doesn’t wait. Technology is accelerating, ideas are multiplying, and breakthroughs once thought impossible are becoming reality. At Singularity.lawyer, Anthony helps innovators protect what matters most in this new era: their creations, their businesses, and their vision for the future.
+
+Anthony is a patent attorney and startup advisor with a rare combination of skills. Trained in both law and computer science, he understands not just the legal frameworks that protect innovation, but also the technologies driving it forward. Anthony ensures that clients—from early-stage founders to established companies—are prepared for the challenges of growth and disruption.</p>
+
+<br>
+<hr class="rounded">
+<h1 class="centered-header">A Practice Designed for Tomorrow</h1>
+<p>Anthony’s work is guided by a singular belief: law should keep pace with innovation, not lag behind it. Just as innovators push the limits of what’s possible, the law must evolve to protect those breakthroughs.
+<br>
+<br>His practice focuses on three pillars:</p>
+
 <ul>
-  <li>Current Skills</li>
-  <ul>
-    <li>Java, C, Python</li>
-    <li>Android Studio</li>
-    <li>Google Firebase, SQL</li>
-    <li>HTML, CSS, JavaScript</li>
-  </ul>
-  <li>Skills Under Development</li>
-  <ul>
-    <li>C++</li>
-    <li>Unreal Engine</li>
-    <li>Graphics Rendering</li>
-    <li>Virtual Reality Development</li>
-  </ul>
-  <li>Projects</li>
-  <ul>
-    <li>Garage Control App (Python)</li>
-    <li>House Decoration Service App (Android Studio)</li>
-    <li>Animal Adoption App (Java)</li>
-    <li>Interactive + Dynamic Conference Website</li>
-  </ul>
+  <li>Intellectual Property – Turning ideas into protected assets: patents, trademarks, copyrights, licensing, and IP strategy.</li>
+  <li>Startup Law – Helping founders build strong foundations: incorporation, agreements, equity, and early-stage guidance.</li>
+  <li>Business Law – Drafting, reviewing, and negotiating contracts that stand the test of growth and change.</li>
 </ul>
-</div>
 
-</div>
+<br>
+<hr class="rounded">
+<h1 class="centered-header">The Singularity Mindset</h1>
+<p>The name Singularity.lawyer reflects more than a brand—it’s a philosophy. Just as the singularity represents a point where technology and human potential converge, Anthony’s practice exists at the intersection of law and innovation.</p>
+
+He brings:
+<ul>
+  <li>Technical fluency → the ability to grasp complex software and hardware</li>
+  <li>Strategic foresight → anticipating risks before they become obstacles</li>
+  <li>Creative problem-solving → building legal solutions as adaptive as the technologies they protect</li>
+</ul>
+
+<br>
+<hr class="rounded">
+<h1 class="centered-header">A Partner for the Future</h1>
+<p>Anthony doesn’t see clients as cases to be filed—he sees them as builders of the future. Legal counsel should not only protect what you’ve built but also empower what comes next. Whether you’re launching a startup, protecting an invention, or scaling your business, he is committed to guiding you through an accelerating world with clarity, confidence, and vision.</p>
+
+<br>
+<hr class="rounded">
+
+<h1 class="centered-header"><a href="contact.html" class="button">Schedule a Consultation</a></h1>
 

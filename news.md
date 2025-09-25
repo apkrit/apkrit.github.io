@@ -3,6 +3,7 @@ layout: page
 title: News
 permalink: /news
 order: 3
+published: false
 pagination: 
   enabled: true
   category: news

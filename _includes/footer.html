@@ -14,25 +14,41 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
+            <p>Patent Attorney | Computer Scientist</p>
             </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+            
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
+        
         {%- include social.html -%}
       </div>
 
       
       <div class="footer-col footer-col-3">
-        <p>Intellectual Property (IP) Attorney 
-          <br>Software Engineer
-        </p>
+        {%- if site.email -%}
+            <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+        {%- endif -%}
+        <br>
+        (978) 325-0105
+        
       </div>
     </div>
-     
+
+    <br>
+
+  <div class="site-disclaimer">
+    <blockquote>This website is for general informational purposes only and does not create an attorney-client relationship. No legal advice is provided here, and an attorney-client relationship is formed only with a signed written agreement. Do not send confidential or time-sensitive information via this site or email, as internet transmission is not secure and confidentiality cannot be guaranteed. This website is considered “advertising” under the rules of the Massachusetts Supreme Judicial Court and the U.S. Patent and Trademark Office.
+    </blockquote> 
+  </div>
+
+  <br>
+
+  <div class="site-copyright">
+    <p>© Copyright 2025 Anthony P. Kritikos. All Rights Reserved.
+    </p>
+  </div>
 
   </div>
 

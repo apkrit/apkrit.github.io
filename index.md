@@ -6,6 +6,18 @@ order: 1
 ---
 
 <div class="hometext">
-    <h1>Welcome.</h1>
-    <p>Take a look around the site to learn about me and what I do.</p>
+    <h1>Turning Innovation Into Intellectual Property.</h1>
+    <p>Anthony Kritikos is a USPTO Registered Patent Attorney with a background in computer science. He combines technical expertise with legal insight to help inventors, entrepreneurs, and businesses safeguard their innovations and build lasting value through intellectual property.</p>
+    <h1>How Anthony Can Help</h1>
+    <p>
+        Patent drafting, filing, and prosecution
+        <br>Patentability and freedom-to-operate opinions
+        <br>Intellectual property strategy for startups and growing businesses
+        <br>Trademark and copyright guidance
+        <br>And more...
+    </p>
+    <h1>Have an idea you want to protect?</h1>
+    <p>No matter is too big or too small. Anthony’s goal is to make the patent process clear, approachable, and effective—whether you’re developing your first invention or managing a growing portfolio. Contact Anthony today to discuss your intellectual property needs and take the next step toward securing your innovation.</p>
+    <a href="contact.html" class="button">Schedule a Consultation</a>
+
 </div>
