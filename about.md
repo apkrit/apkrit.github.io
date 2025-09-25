@@ -9,9 +9,9 @@ order: 2
 <h1 class="centered-header">Registered USPTO Patent Attorney</h1>
 <hr class="rounded">
 
-<!-- {% include image.html url="assets/images/kritikospic.jpg" %} -->
+{% include image.html url="assets/images/kritikosheadshot.jpg" %}
 
-<!-- <hr class="rounded"> -->
+<hr class="rounded">
 
 <h1 class="centered-header">Background</h1>
 <ul>
