@@ -16,7 +16,7 @@
 title: Singularity Lawyer
 email: apkritikos@singularity.lawyer
 description: >- # this means to ignore newlines until "baseurl:"
-  Intellectual Property (IP) Attorney & Software Engineer
+  Patent and Intellectual Property (IP) Attorney with Computer Science background, based in Boston, MA
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://singularity.lawyer" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
@@ -67,3 +67,4 @@ pagination:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
